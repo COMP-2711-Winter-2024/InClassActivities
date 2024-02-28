@@ -1,5 +1,3 @@
-package example.novisitor;
-
 public class Dot implements Shape {
     private int id;
     private int x;

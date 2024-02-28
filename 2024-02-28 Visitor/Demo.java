@@ -1,5 +1,3 @@
-package example.novisitor;
-
 public class Demo {
     public static void main(String[] args) {
         // create some shapes

@@ -1,5 +1,3 @@
-package example.novisitor;
-
 public class Circle extends Dot {
     private int radius;
 

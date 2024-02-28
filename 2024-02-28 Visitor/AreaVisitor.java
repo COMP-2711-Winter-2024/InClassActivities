@@ -1,5 +1,3 @@
-package example.novisitor;
-
 public class AreaVisitor implements Visitor {
 
     double area;
